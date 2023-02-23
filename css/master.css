@@ -553,13 +553,13 @@ footer{
     }
 	
 	.card img{
-		width: 370px;
-		height: 370px;
+		width: 300px;
+		height: 300px;
 	}
     
     .img{
-        width: 400px; 
-	height: 420px;
+        width: 360px; 
+	height: 380px;
     }
 
     .swing{
@@ -606,8 +606,8 @@ footer{
     }
 
     .card img{
-        width: 250px;
-        height: 250px;
+        width: 220px;
+        height: 220px;
     }
 
     .item{
