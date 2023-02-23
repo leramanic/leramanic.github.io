@@ -544,6 +544,11 @@ footer{
     .bottom h2{
         font-size: 36px;
     }
+	
+	.card img{
+		width: 420px;
+		height: 420px;
+	}
     
     .img{
         width: 460px; 
