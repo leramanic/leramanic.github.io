@@ -572,6 +572,14 @@ footer{
         padding: 0;
         height: 280px;
     }
+	.item{
+        width: 320px;
+        display: flex;
+        flex-direction: column;
+        height: auto;   
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 	
 	.item img{
 		width: 160px;
