@@ -562,11 +562,6 @@ footer{
 	height: 380px;
     }
 
-    .swing{
-        width: 450px;
-        height: 450px;
-    }
-
     .item{
         width: 460px;
         padding: 0;
@@ -585,7 +580,8 @@ footer{
 		width: 160px;
 		height: 160px;
 	}
-	img.swing {
+	
+	.swing {
     width: 340px;
     height: 340px;
 }
