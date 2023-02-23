@@ -585,6 +585,10 @@ footer{
 		width: 160px;
 		height: 160px;
 	}
+	.swing{
+        width: 380x;
+        height: 380px;
+    }
 }
 
 @media screen and (max-width:320px) {
