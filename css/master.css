@@ -15,7 +15,7 @@
 } 
 
 p, a{
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa';
     font-weight: 500;
 }
 
@@ -117,7 +117,7 @@ header::before{
 .ul > button a {
     color: #fff;
     font-size: 28px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa';
     font-weight: 600;
 
 }
@@ -168,7 +168,7 @@ h2{
 }
 
 .bottom button a{
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa';
     font-weight: 600;
     font-size: 20px;
     color: var(--blue);
@@ -225,7 +225,7 @@ h2{
 .mark button a{
     color: var(--blue);
     font-size: 20px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa';
     font-weight: 600;
 }
 
@@ -260,7 +260,7 @@ h2{
 
 
 .item h3{
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa';
     font-weight: 500;
     color: #fff;
     font-size: 32px;
@@ -466,7 +466,8 @@ footer{
     .img{
         width: 760px;
         margin: 0 auto;
-        margin-top: 40px;   
+        margin-top: 40px; 
+	height: 780px;
     }
 
     .wrapper-header, .wrapper-price, .wrapper-footer, .wrapper-works, .wrapper-cont{
@@ -525,6 +526,7 @@ footer{
 
     .img{
         width: 560px;
+	    height: 600px;
     }
 }
 
@@ -545,7 +547,8 @@ footer{
     }
     
     .img{
-        width: 460px;    
+        width: 460px; 
+	    height: 480px;
     }
 
     .swing{
