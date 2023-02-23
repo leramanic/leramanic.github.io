@@ -560,9 +560,10 @@ footer{
         padding: 0;
         height: 280px;
     }
+	
 	.item img{
-		width: 440px;
-		height: 440px;
+		width: 160px;
+		height: 160px;
 	}
 }
 
@@ -597,6 +598,11 @@ footer{
         padding-top: 10px;
         padding-bottom: 10px;
     }
+	
+	.item img{
+		width: 100px;
+		height: 100px;
+	}
 
     .swing{
         width: 290px;
