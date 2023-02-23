@@ -585,10 +585,9 @@ footer{
 		width: 160px;
 		height: 160px;
 	}
-	.swing{
-        width: 340x;
-        height: 340px;
-    }
+	img.swing {
+    width: 340px;
+    height: 340px;
 }
 
 @media screen and (max-width:320px) {
@@ -628,10 +627,9 @@ footer{
 		height: 100px;
 	}
 
-    .swing{
-        width: 290px;
-        height: 290px;
-    }
+    img.swing {
+    width: 290px;
+    height: 290px;
 
     .all a{
         font-size: 14px;
